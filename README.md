@@ -8,6 +8,6 @@ This project is also available as one of my [p5.js sketches.](https://editor.p5j
 Read [about it on the official ml5 page](https://ml5js.org/about/)
 
 ## Contributing in this repository
-Step 1. Create a fork of this repository.
-Step 2. Update the files.
-Step 3. Create a pull request.
+Step 1. Create a fork of this repository.<br>
+Step 2. Update the files.<br>
+Step 3. Create a pull request.<br>
